@@ -96,7 +96,7 @@ A Machine Learning-powered web application that forecasts product sales across v
 
 🔧 Installation
 
-  git clone https://github.com/your-repo-url
+  git clone https://github.com/Poojapentela/BigMartSalesPerdiction.git
   cd BigMartSalesForecasting
   pip install -r requirements.txt
   python app.py
